@@ -1,0 +1,29 @@
+{
+  "name": "@brave-agency/stylelint-config",
+  "version": "1.0.4",
+  "description": "A shareable set of Stylelint rules to maintain CSS Standards across projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brave-agency/stylelint-config.git"
+  },
+  "keywords": [
+    "Stylelint",
+    "CSS",
+    "SCSS"
+  ],
+  "author": "Sam Wells",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^13.7.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-order": "^4.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/brave-agency/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/brave-agency/stylelint-config#readme"
+}
