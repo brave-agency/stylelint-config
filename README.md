@@ -1,3 +1,4 @@
+![Node.js Package](https://github.com/brave-agency/stylelint-config/workflows/Node.js%20Package/badge.svg)
 # stylelint-config
 
 Brave's shareable Stylelint config for use across projects.
