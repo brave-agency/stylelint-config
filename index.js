@@ -26,7 +26,7 @@ module.exports = {
         "no-duplicate-at-import-rules": true,
         "shorthand-property-no-redundant-values": true,
         "value-no-vendor-prefix": true,
-        "max-nesting-depth": 2,
+        "max-nesting-depth": 3,
         "length-zero-no-unit": true,
         "no-missing-end-of-source-newline": true,
         "order/properties-order": [],
