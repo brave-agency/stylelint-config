@@ -1,5 +1,6 @@
 module.exports = {
   plugins: ["stylelint-order", "stylelint-config-rational-order/plugin"],
+  ignoreFiles: ["dist/**/*.css"],
   rules: {
     "selector-class-pattern":
       "^(?:(?:o|c|u|t|s|is|has|_|js|qa)-)?[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)*(?:__[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)*)?(?:--[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)*)?(?:\\[.+\\])?$",
