@@ -14,6 +14,7 @@ module.exports = {
       },
     ],
     "block-opening-brace-space-before": "always",
+    "declaration-colon-space-before": "always",
     "declaration-colon-space-after": "always",
     "number-leading-zero": "always",
     "block-opening-brace-newline-after": "always",
