@@ -29,17 +29,17 @@ Brave's stylelint rules come bundled in `@brave-agency/stylelint-config`. To ena
 Now you can run stylelint by adding the following linting script to your `package.json`. See the [stylelint CLI docs](https://stylelint.io/user-guide/cli/) for more details.
 ```
 "scripts": {
-  "stylelint": "stylelint 'src/**/*.scss'"
+   "lint:styles": "stylelint \"src/styles/**/*.scss\" --fix --formatter verbose",
 }
 ```
 Run it:
 
 **With Yarn**
 ```
-yarn run stylelint
+yarn run lint:styles
 ```
 
 **With npm**
 ```
-npm run stylelint
+npm run lint:styles
 ```
