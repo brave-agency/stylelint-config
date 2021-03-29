@@ -1,6 +1,6 @@
 {
   "name": "@brave-agency/stylelint-config",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A shareable set of Stylelint rules to maintain CSS Standards across projects.",
   "main": "index.js",
   "scripts": {
