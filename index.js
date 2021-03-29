@@ -13,7 +13,7 @@ module.exports = {
           "Use min-width for a mobile-first approach (media-feature-name-blacklist)",
       },
     ],
-    "block-opening-brace-space-before": "always",
+    "block-opening-brace-space-before": "never",
     "declaration-block-no-duplicate-properties": true,
     "declaration-colon-space-before": "always",
     "declaration-colon-space-after": "always",
