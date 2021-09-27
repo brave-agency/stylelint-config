@@ -11,6 +11,7 @@ module.exports = {
         "color-no-invalid-hex": true,
         "comment-no-empty": true,
         "declaration-block-no-duplicate-properties": true,
+        "declaration-block-semicolon-newline-after": "always",
         "declaration-colon-space-after": "always",
         "declaration-colon-space-before": "never",
         "declaration-empty-line-before": "never",
